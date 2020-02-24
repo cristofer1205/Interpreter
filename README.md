@@ -2,6 +2,8 @@
 
 Dado un idioma, definir una representación para su gramática junto con un intérprete que utilice la representación para interpretar frases en el idioma.
 
+Se desea poder evaluar con los operadores "and" y "or" dos parametros dados dentro de una una expresión
+
 
 # Diagrama
 
